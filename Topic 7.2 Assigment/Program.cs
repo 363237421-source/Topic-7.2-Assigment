@@ -27,7 +27,7 @@
 
             //Assigment 2
 
-            Console.WriteLine("I can count the variable ‘i’ go from -10 to 10, counting by 2’s.");
+            Console.WriteLine("I can count the variable ‘x’ go from -10 to 10, counting by 2’s and the variable 'y' make the current value of the x, squared.");
             Console.WriteLine("Press ENTER to continue.");
             Console.ReadLine();
 
